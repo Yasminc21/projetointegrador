@@ -1,1 +1,1 @@
-{"version":3,"sources":[],"names":[],"mappings":"","file":"style.css"}
+{"version":3,"sources":["..\\style.scss","style.css"],"names":[],"mappings":"AAAA;EAGI,yBAAA;ACDJ","file":"style.css","sourcesContent":["#corsepia\r\n\r\nbody{\r\n    background-color: #aa7444;\r\n}","#corsepia body {\n  background-color: #aa7444;\n}"]}
